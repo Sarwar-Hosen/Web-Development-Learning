@@ -1,0 +1,14 @@
+div img{
+    padding: 10px;
+    width: 50%;
+    height: auto;
+    display: block;
+}
+div{
+    border: 2px solid cadetblue;
+    padding: 10px;
+    margin: 10px;
+}   
+div a{
+    font-size: 18px;
+}

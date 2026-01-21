@@ -1,0 +1,12 @@
+div{
+    display: flex;
+}
+div img{
+    padding: 10px;
+    width: 50%;
+    height: auto;
+    display: block;
+}
+div h3 p{
+    display: inline-block;
+}
