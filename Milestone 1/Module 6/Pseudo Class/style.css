@@ -1,0 +1,14 @@
+button:hover {
+  background: black;
+  color: white;
+}
+
+input:focus {
+    border: 2px solid green;
+    border-radius: 4px;
+    outline: none;
+}
+
+li:nth-child(odd) {
+  color: blue;
+}
